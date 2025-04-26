@@ -26,6 +26,18 @@ The School Management App is a web application to help manage various aspects of
   - Vercel for deployment
 
 
+## To clone this repo:
+- Download the zip file or pull from command line with: git clone https://github.com/greyart93/Student_management_app.git
+- run: npm i
+- run: npm run dev
+
+## setup for database:
+- make a firebase account see tutorial here: <a>https://support.localexpress.io/en/knowledge-base/how-to-create-a-firebase-account</a>
+- create a web project
+- copy the firebase config file after successful web project creation
+- enable firestore and authentication
+- put the firebase config in .env file
+
 
 
 
